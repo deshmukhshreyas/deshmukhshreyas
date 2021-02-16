@@ -3,7 +3,7 @@
 <a href="https://shreyasdeshmukh.com/" target="_blank"><img src="https://github.com/deshmukhshreyas/deshmukhshreyas/blob/main/know.png"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshmukhshreyas)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshmukhshreyas)]
 
 <h2 align="centre"> Bio </h2>
 • I am co-founder at <a href="https://www.natureville.org/" target="_blank"><strong>Natureville<strong></a><br><br>
